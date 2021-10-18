@@ -1,0 +1,94 @@
+body{
+    font-family: 'Gill Sans MT', sans-serif, monospace;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+
+.titulo-login{
+    background-color: #191970;
+    color: white;
+    font-size: 40px;
+    text-align: none;
+    height: 50px;
+    padding: 30px;
+    width: 850px;
+
+}
+
+.divide1{
+    margin-right: 5px; 
+    float: left; 
+    color: white; 
+    background-color: white; 
+    height: 50vh; 
+    width: 30vw;
+    text-align: center;
+    
+}
+.imagemdivider{
+    height: 200;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+
+.divide2{
+    margin-right: 5px; 
+    float: left; 
+    color: white; 
+    background-color: white; 
+    height: 50vh; 
+    width: 30vw;
+    text-align: center; 
+   
+}
+
+.login{
+    text-align: center;
+    font-size: 30px;
+    color: 	#808080
+}
+
+.input-email{
+    border-radius: none;
+    margin-bottom: 30px;
+    margin-right: 1px;
+    height: 30px;
+    width: 220;
+    
+}
+
+.input-senha{
+    border-radius: none;
+    height: 30px;
+    margin-bottom: 20px;
+    margin-right: 1px;
+    width: 220;
+}
+
+
+.btn-enviar{
+    background-color: royalblue;
+    color: white;
+    font-size: 15px;
+    border: none;
+    width: 220px;
+    height: 30px;
+    margin-right: 1px;
+    margin-bottom: 15px;
+    text-align: center;
+    align-content: center;
+    
+
+}
+
+input[type="email"]{
+    background-color : #DCDCDC; 
+    border: none;
+    
+}
+
+input[type="senha"], textarea {
+    background-color : #DCDCDC; 
+    border: none;
+}
